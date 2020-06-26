@@ -1,3 +1,32 @@
-# Piekna-Corrona-Python
+# Piekna-Covid19-Python
 
-Projekt realizowany w 2020r. 
+Projekt realizowany dla chętnych uczniów z Liceum Ogólnokształcącego im. Polskiem Macierzy Szkolnej dotyczący analizy danych dotyczących zachorowąń na Covid-19 w województwie mazowieckim. 
+
+## Zagadnienia projektu:
+- Python - zapoznanie się z podstawami języka 
+- Pandas - podstawowe operacje na danych 
+- Dash + Plotly - wizualizacja danych
+- GIT - system kontroli wersji
+
+## Źródła danych
+W ramach projektu pozyskane zostały dane z stron internerowych Powiatowych Stacji Epidemiczno-Sanitarnych na terenie województwa mazowieckiego.
+
+Osoby pozyskujące dane: Patryk Gryz, Karol Duszyk
+
+## Prowadzący zajęcia
+Zajęcia prowadził inż. Michał Możdżonek - obecnie student studiów magisterskich Politechniki Warszawskiej na kierunku Analiza i Inżynieria Danych.
+
+## Dalsze wykorzystanie
+Każdy, kto chce, może wykorzystać notebooki oraz dane w wybrany przez siebie sposób na zasadach otwartego oprogramowania.
+
+Formalnie dostęp jest udzielany na podstawie poniższej licencji MIT.
+
+----
+
+Copyright 2020 Możdżonek Michał
+
+Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
